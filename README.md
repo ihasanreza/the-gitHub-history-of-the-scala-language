@@ -16,4 +16,4 @@ The dataset includes the project history of Scala retrieved from Git and GitHub 
 - Who made the most pull requests to a given file?
 - Who made the last ten pull requests on a given file?
 - The pull requests of two special developers
-- Visualizing the contributions of each developer
+- Visualizing the contributions of each developer to a given file
